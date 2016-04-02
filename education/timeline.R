@@ -11,6 +11,8 @@ setwd("~/Box Sync/website/")
 require(googleVis) ## googleVis 0.5.0-3
 #install.packages("timeline")
 library(timeline)
+#install.packages("shiny")
+library(shiny)
 
 
 dat <- data.frame(Room=c("Room 1","Room 2","Room 3"),
@@ -78,9 +80,12 @@ df3$End <- as.Date(df3$End)
 df3.cat <- gsub("\\n", " ", df3$Details)
 plot(
   gvisTimeline(data=df3, 
-               rowlabel="Category", barlabel="Details", 
-               start="Start", end="End",
-               options=list(width = 1000, fontSize = 16))
+               rowlabel="Category", 
+               barlabel=c("Details", "School"), 
+               start="Start", 
+               end="End",
+               options=list(width = 1000, 
+                            tooltip="{isHtml:'true'}"))
 )
 plot(
   gvisTimeline(data = df3, 
@@ -91,4 +96,24 @@ plot(
                            options=list(timeline="{groupByRowLabel:false}",
                                         backgroundColor='#ffd', 
                                         height=350))
+)
+
+# don't seem to be able to adjust the tooltips, might try another method
+# in the meantime, add more info to the bars
+
+df4 <- df3
+df4$DetailsSchool <- paste(df4$Details, df3$School, sep = ", ")
+df4$DetailsSchool <- gsub("\\n", " ", df4$DetailsSchool)
+
+##*******************************************
+# current version on the website
+##*******************************************
+
+plot(
+  gvisTimeline(data=df4, 
+               rowlabel="Category", 
+               barlabel="DetailsSchool", 
+               start="Start", 
+               end="End",
+               options=list(width = 1000))
 )

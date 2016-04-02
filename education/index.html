@@ -4,7 +4,7 @@ title: Dan Spakowicz
 ---
 
 <!-- Timeline generated in R 3.2.4 by googleVis 0.5.10 package -->
-<!-- Fri Apr  1 22:22:39 2016 -->
+<!-- Fri Apr  1 23:14:42 2016 -->
 
 
 <!-- jsHeader -->
@@ -12,67 +12,67 @@ title: Dan Spakowicz
 
 
 // jsData 
-function gvisDataTimelineID18722edca971 () {
+function gvisDataTimelineID1872e037d05 () {
 var data = new google.visualization.DataTable();
 var datajson =
 [
  [
  "Education",
-"Diploma",
+"Diploma, Oshkosh West",
 new Date(1996,8,1),
 new Date(2000,5,1) 
 ],
 [
  "Education",
-"BS",
+"BS, University of Minnesota",
 new Date(2000,8,1),
 new Date(2004,11,1) 
 ],
 [
  "Education",
-"PhD",
+"PhD, Yale University",
 new Date(2007,8,1),
 new Date(2013,11,1) 
 ],
 [
  "Education",
-"MS",
+"MS, Yale University",
 new Date(2015,8,1),
 new Date(2017,5,1) 
 ],
 [
  "Experience",
-"Junior Researcher",
+"Junior Researcher, University of Minnesota",
 new Date(2004,11,2),
 new Date(2007,5,1) 
 ],
 [
  "Experience",
-"Instructor",
+"Instructor, Yale University",
 new Date(2014,0,1),
 new Date(2014,9,1) 
 ],
 [
  "Experience",
-"Postdoctoral Fellow",
+"Postdoctoral Fellow, Yale University",
 new Date(2014,9,2),
 new Date(2017,5,1) 
 ],
 [
  "Experience",
-"Student Researcher",
+"Student Researcher, University of Minnesota",
 new Date(2003,0,16),
 new Date(2003,11,15) 
 ],
 [
  "Experience",
-"Laboratory Technician",
+"Laboratory Technician, University of Minnesota",
 new Date(2001,9,1),
 new Date(2002,11,15) 
 ] 
 ];
 data.addColumn('string','Category');
-data.addColumn('string','Details');
+data.addColumn('string','DetailsSchool');
 data.addColumn('date','Start');
 data.addColumn('date','End');
 data.addRows(datajson);
@@ -81,16 +81,15 @@ return(data);
 
 
 // jsDrawChart
-function drawChartTimelineID18722edca971() {
-var data = gvisDataTimelineID18722edca971();
+function drawChartTimelineID1872e037d05() {
+var data = gvisDataTimelineID1872e037d05();
 var options = {};
 options["width"] =   1000;
 options["height"] =    200;
-options["fontSize"] =     16;
 
 
     var chart = new google.visualization.Timeline(
-    document.getElementById('TimelineID18722edca971')
+    document.getElementById('TimelineID1872e037d05')
     );
     chart.draw(data,options);
     
@@ -115,9 +114,9 @@ if (newPackage)
   pkgs.push(chartid);
   
 // Add the drawChart function to the global list of callbacks
-callbacks.push(drawChartTimelineID18722edca971);
+callbacks.push(drawChartTimelineID1872e037d05);
 })();
-function displayChartTimelineID18722edca971() {
+function displayChartTimelineID1872e037d05() {
   var pkgs = window.__gvisPackages = window.__gvisPackages || [];
   var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
   window.clearTimeout(window.__gvisLoad);
@@ -143,13 +142,12 @@ callbacks.shift()();
 
 
 <!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTimelineID18722edca971"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTimelineID1872e037d05"></script>
 
 
 <!-- divChart -->
   
-<div id="TimelineID18722edca971" 
+<div id="TimelineID1872e037d05" 
   style="width: 1000; height: 200;">
 </div>
-
 
