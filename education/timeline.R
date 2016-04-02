@@ -3,6 +3,8 @@
 # possibly using gvis, if I can, so it's easily portable to my website (by me, I'm sure there's a way to integrate Shiny with Jekyll)
 # Update record
 # Thu Mar 31 22:58:07 2016 ------------------------------
+# Fri Apr  1 21:55:34 2016 ------------------------------
+
 
 setwd("~/Box Sync/website/")
 #install.packages("googleVis")
@@ -68,5 +70,25 @@ Timeline <- gvisTimeline(data = df,
                                       colors="['#cbb69d', '#603913', '#c69c6e']"))
 plot(Timeline)
 
+##### Now try adding in the experience
+df3 <- read.table("education_experience.txt", sep = "\t", header = T)
+df3$Start <- as.Date(df3$Start)
+df3$End <- as.Date(df3$End)
 
-
+df3.cat <- gsub("\\n", " ", df3$Details)
+plot(
+  gvisTimeline(data=df3, 
+               rowlabel="Category", barlabel="Details", 
+               start="Start", end="End",
+               options=list(width = 1000, fontSize = 16))
+)
+plot(
+  gvisTimeline(data = df3, 
+                           rowlabel = "Category",
+                           barlabel="School",
+                           start="Start", 
+                           end="End",
+                           options=list(timeline="{groupByRowLabel:false}",
+                                        backgroundColor='#ffd', 
+                                        height=350))
+)
