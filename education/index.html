@@ -4,11 +4,154 @@ title: Dan Spakowicz
 ---
 
 <!-- Timeline generated in R 3.2.4 by googleVis 0.5.10 package -->
-<!-- Thu Mar 31 23:09:40 2016 -->
+<!-- Fri Apr  1 22:22:39 2016 -->
 
 
 <!-- jsHeader -->
 <script type="text/javascript">
+
+
+// jsData 
+function gvisDataTimelineID18722edca971 () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "Education",
+"Diploma",
+new Date(1996,8,1),
+new Date(2000,5,1) 
+],
+[
+ "Education",
+"BS",
+new Date(2000,8,1),
+new Date(2004,11,1) 
+],
+[
+ "Education",
+"PhD",
+new Date(2007,8,1),
+new Date(2013,11,1) 
+],
+[
+ "Education",
+"MS",
+new Date(2015,8,1),
+new Date(2017,5,1) 
+],
+[
+ "Experience",
+"Junior Researcher",
+new Date(2004,11,2),
+new Date(2007,5,1) 
+],
+[
+ "Experience",
+"Instructor",
+new Date(2014,0,1),
+new Date(2014,9,1) 
+],
+[
+ "Experience",
+"Postdoctoral Fellow",
+new Date(2014,9,2),
+new Date(2017,5,1) 
+],
+[
+ "Experience",
+"Student Researcher",
+new Date(2003,0,16),
+new Date(2003,11,15) 
+],
+[
+ "Experience",
+"Laboratory Technician",
+new Date(2001,9,1),
+new Date(2002,11,15) 
+] 
+];
+data.addColumn('string','Category');
+data.addColumn('string','Details');
+data.addColumn('date','Start');
+data.addColumn('date','End');
+data.addRows(datajson);
+return(data);
+}
+
+
+// jsDrawChart
+function drawChartTimelineID18722edca971() {
+var data = gvisDataTimelineID18722edca971();
+var options = {};
+options["width"] =   1000;
+options["height"] =    200;
+options["fontSize"] =     16;
+
+
+    var chart = new google.visualization.Timeline(
+    document.getElementById('TimelineID18722edca971')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+
+
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "timeline";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartTimelineID18722edca971);
+})();
+function displayChartTimelineID18722edca971() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+
+
+// jsFooter
+</script>
+
+
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTimelineID18722edca971"></script>
+
+
+<!-- divChart -->
+  
+<div id="TimelineID18722edca971" 
+  style="width: 1000; height: 200;">
+</div>
+
 
 
 // jsData 
