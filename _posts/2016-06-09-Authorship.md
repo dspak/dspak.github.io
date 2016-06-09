@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Responsible Conduct of Research Course, Session 6: Authorship & Peer 	Review"
+title: "Responsible Conduct of Research Course, Session 6: Authorship & Peer Review"
 date: 2016-06-09
 ---
 
