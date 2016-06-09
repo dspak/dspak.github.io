@@ -1,12 +1,9 @@
 
 ---
 layout: post
-title: "Responsible Conduct of Research Course, Session 6: Authorship & Peer Review"
+title: "Responsible Conduct of Research Course, Session 6: Authorship & Peer 	Review"
 date: 2016-06-09
 ---
-
-
-***
 
 
 >Write an essay (1-3 pages) describing how you would handle ethical questions related to authorship or peer review if you were a faculty member running your own research group. 
