@@ -1,10 +1,10 @@
-# Responsible Conduct of Research Course
-## Session 6: Authorship & Peer Review
 
+---
+layout: post
+title: "Responsible Conduct of Research Course, Session 6: Authorship & Peer Review"
+date: 2016-06-09
+---
 
-### Make-up Assignment for missing the 08 June 2016 session
-### Daniel Spakowicz
-### 09 June 2016
 
 ***
 
