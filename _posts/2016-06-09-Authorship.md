@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Responsible Conduct of Research Course, Session 6: Authorship & Peer 	Review"
