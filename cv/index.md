@@ -139,16 +139,23 @@ Teaching Assistant for "Rainforest Expedition and Laboratory" Course
 *** 
 
 ## TEACHING EXPERIENCE		
-Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014
+* Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014
+
 Yale University, New Haven, CT	
-Rated one “America’s 10 Hottest Classes” in 2009 by thedailybeast	
+
+Rated one “America’s 10 Hottest Classes” in 2009 by thedailybeast.com	
 Lecturered and developed course materials for a semester-long course with mandatory field work and summer research components	
 	
-Teaching Assistant, Rainforest Expedition and Laboratory Course	2008-11
+* Teaching Assistant, Rainforest Expedition and Laboratory Course	2008-11
+
 Yale University, New Haven, CT	
+
 Lectured on Phylogenetics and tree building	
+
 Led discussions of primary literature	
+
 Helped design course direction and materials	
+
 Received Yale's Excellence in Teaching Award	
 
 ***
@@ -172,29 +179,37 @@ Towards the identification of the genes responsible for biofuel production in As
 ## POSTERS	
 
 * Yale Molecular Biophysics and Biochemistry Department Retreat	10/2012
+
 Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
-Poster Award	
+__Poster Award__
 	
 * Gordon Research Conference: Natural Products	07/2012
+
 Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
 	
 * Yale Climate and Energy Institute Conference	2011
+
 Compound Context Analysis reveals hydrocarbon production genes in Ascocoryne sarcoides	
-Poster Award	
+__Poster Award__
 	
 * Yale Climate and Energy Institute Conference	2010
+
 Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
 	
 * Yale Molecular Biophysics and Biochemistry Department Retreat	2009
+
 Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
 	
 * Yale Molecular Biophysics and Biochemistry Department Retreat	2008
+
 Towards genetic undestanding of biofuel production pathways in Ascocoryne sarcoides	
 	
 * Biophysical Society Meeting	2007
+
 Age-related damage to myosin in skeletal muscle fibers	
 	
 * Biophysical Society Meeting	2006
+
 Oxidation-induced damage to actin in skeletal muscle fibers	
 	
 ## FIELD WORK		
