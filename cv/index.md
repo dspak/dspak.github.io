@@ -11,7 +11,8 @@ _266 Whitney Ave, New Haven, CT 06511_
 _(612) 807-6316_	
 
 _daniel.spakowicz@yale.edu_
-	
+
+***
 	
 ## EMPLOYMENT		
 
@@ -51,35 +52,46 @@ Identified mutations in E. coli metabolism genes that conferred fitness advantag
 Judith Berman's Lab, University of Minnesota	
 Washed dishes, made media, poured plates, etc.	
 	
-	
+***
 	
 ## EDUCATION		
-Ph.D.	2008-13
+__Ph.D.	2008-13__
+
 Scott A. Strobel Laboratory	
+
 Yale University, New Haven, CT	
+
 Dissertation: "Discovery and Genetics of biofuel production by endophytic fungi”	
 	
-M. Phil	2007-8
+__M. Phil	2007-8__
+
 Yale University, New Haven, CT	
 	
-B.S.	2000-4
+__ B.S.	2000-4__
+
 University of Minnesota, Minneapolis, MN	
+
 Majors: Biochemistry, Ecology	
+
 Minor: Chemistry	
+
 Thesis: “Towards understanding the symbiosis between Nostoc punctiforme and Gunnera insignis”	
 	
-
+***
 	
 ## HONORS AND AWARDS		
-Postdoctoral Fellowship in Medical Informatics 	2015-17
+* Postdoctoral Fellowship in Medical Informatics 	2015-17
+
 National Library of Medicine, Yale University	
 	
-Yale Excellence in Teaching Award	2011
+* Yale Excellence in Teaching Award	2011
+
 Teaching Assistant for "Rainforest Expedition and Laboratory" Course	
 	
-Poster Awards	
-Yale Climate and Energy Institute Conference	2011
-Yale Molecular Biophysics and Biochemistry Department Retreat	2012
+### Poster Awards	
+* Yale Climate and Energy Institute Conference	2011
+* Yale Molecular Biophysics and Biochemistry Department Retreat	2012
+***
 	
 ## [PUBLICATIONS](https://scholar.google.com/citations?user=Oxve9hAAAAAJ&hl=en&authuser=1)	
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
@@ -123,7 +135,9 @@ Yale Molecular Biophysics and Biochemistry Department Retreat	2012
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Functional%2C%20structural%2C%20and%20chemical%20changes%20in%20myosin%20associated%20with%20hydrogen%20peroxide%20treatment%20of%20skeletal%20muscle%20fibers&amp;rft.jtitle=American%20Journal%20of%20Physiology-Cell%20Physiology&amp;rft.volume=294&amp;rft.issue=2&amp;rft.aufirst=Ewa&amp;rft.aulast=Prochniewicz&amp;rft.au=Ewa%20Prochniewicz&amp;rft.au=Dawn%20A.%20Lowe&amp;rft.au=Daniel%20J.%20Spakowicz&amp;rft.au=LeeAnn%20Higgins&amp;rft.au=Kate%20O'Conor&amp;rft.au=LaDora%20V.%20Thompson&amp;rft.au=Deborah%20A.%20Ferrington&amp;rft.au=David%20D.%20Thomas&amp;rft.date=2008&amp;rft.pages=C613%E2%80%93C626"></span>
 </div></body>
 </html>	
-	
+
+*** 
+
 ## TEACHING EXPERIENCE		
 Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014
 Yale University, New Haven, CT	
@@ -136,48 +150,51 @@ Lectured on Phylogenetics and tree building
 Led discussions of primary literature	
 Helped design course direction and materials	
 Received Yale's Excellence in Teaching Award	
+
+***
 	
 ## TALKS	
 
-Mycological Society of America Meeting, New Haven, CT	2012
+* Mycological Society of America Meeting, New Haven, CT	2012
 Genomic and transcriptomic analysis of a novel endophytic fungus for the discovery of natural product pathways	
 	
-Yale Molecular Biophysics and Biochemistry Department Retreat	2010
+* Yale Molecular Biophysics and Biochemistry Department Retreat	2010
 Biofuel production by novel endophytic fungi	
 	
-US Department of Defense National Security Fellows Conference, Washington D.C.	07/2009
+* US Department of Defense National Security Fellows Conference, Washington D.C.	07/2009
 Biofuel production by novel endophytic fungi	
 	
-Cell and Molecular Biology Training Grant Symposium, Yale University	02/2009
+* Cell and Molecular Biology Training Grant Symposium, Yale University	02/2009
 Towards the identification of the genes responsible for biofuel production in Ascocoryne sarcoides	
 	
+*** 
 
 ## POSTERS	
 
-Yale Molecular Biophysics and Biochemistry Department Retreat	10/2012
+* Yale Molecular Biophysics and Biochemistry Department Retreat	10/2012
 Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
 Poster Award	
 	
-Gordon Research Conference: Natural Products	07/2012
+* Gordon Research Conference: Natural Products	07/2012
 Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
 	
-Yale Climate and Energy Institute Conference	2011
+* Yale Climate and Energy Institute Conference	2011
 Compound Context Analysis reveals hydrocarbon production genes in Ascocoryne sarcoides	
 Poster Award	
 	
-Yale Climate and Energy Institute Conference	2010
+* Yale Climate and Energy Institute Conference	2010
 Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
 	
-Yale Molecular Biophysics and Biochemistry Department Retreat	2009
+* Yale Molecular Biophysics and Biochemistry Department Retreat	2009
 Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
 	
-Yale Molecular Biophysics and Biochemistry Department Retreat	2008
+* Yale Molecular Biophysics and Biochemistry Department Retreat	2008
 Towards genetic undestanding of biofuel production pathways in Ascocoryne sarcoides	
 	
-Biophysical Society Meeting	2007
+* Biophysical Society Meeting	2007
 Age-related damage to myosin in skeletal muscle fibers	
 	
-Biophysical Society Meeting	2006
+* Biophysical Society Meeting	2006
 Oxidation-induced damage to actin in skeletal muscle fibers	
 	
 ## FIELD WORK		
@@ -197,7 +214,8 @@ Collected samples from private property near Punta Arenas and Puerto Montt.
 * Monteverde, Costa Rica	02-06/2004
 Undergraduate Thesis	
 The goal of this work was to understand the relationship between a blue-green alga and its host montane herb.	
-	
+
+*** 
 
 ## OTHER RELEVANT EXPERIENCE				
 ### Scientific Reviewing/Judging/Mentoring	
@@ -221,12 +239,14 @@ The goal of this work was to understand the relationship between a blue-green al
 * Member of the Graduate Student Assembly Transit and Security Committee 	2008-12
 * Ad hoc reviewer for the Graduate Student Assembly Conference Travel Fund	2009-10
 * Co-first author of the report "Yale Bike Plan"  that diagrammed and described 		the needs and desires of the graduate student community for cycling 		infrastructure on the Yale campus	09/2012
+***
 	
 ## PROFESSIONAL MEMBERSHIPS		
 * American Society for Microbiology	2015
 * Mycology Society of America	2012-15
 * Biophysical Society	2006-7
-	
+
+*** 	
 
 ## GRADUATE COURSEWORK		
 
