@@ -179,19 +179,19 @@ Oxidation-induced damage to actin in skeletal muscle fibers
 	
 ## FIELD WORK		
 
-Sarawak, Malaysia	11/2011
+* Sarawak, Malaysia	11/2011
 Isolation of novel volatile-producing endophytes	
 Led an expedition to collect plant specimens in Bako and Kubah National Parks	
 	
-Amazon Basin, Ecuador	03/2008-10
+* Amazon Basin, Ecuador	03/2008-10
 Isolation of novel endophytes	
 Collected plant specimens from Cerro Blanco Dry Forest, a variety of locations in the cloud forests near Mindo, at several locations along the Napo river in the Amazon basin, in the Yasuni National Preserve, in the altiplano region zone above 11,000’, and in the Podocarpus forest near Loja.	
 	
-Patagonia, Chile	12/2007
+* Patagonia, Chile	12/2007
 Collection of alternative strains of the biofuel producing endophyte Ascocoryne sarcoides	
 Collected samples from private property near Punta Arenas and Puerto Montt.	
 	
-Monteverde, Costa Rica	02-06/2004
+* Monteverde, Costa Rica	02-06/2004
 Undergraduate Thesis	
 The goal of this work was to understand the relationship between a blue-green alga and its host montane herb.	
 	
