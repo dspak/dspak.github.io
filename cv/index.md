@@ -3,10 +3,6 @@ layout: default
 title: "Daniel J Spakowicz""
 ---
 
-<div class="cv">
-	<a href="#" class="download" title="Download CV as PDF">Download CV</a>
-
-
 __Yale University__		
 and __The Jackson Laboratory for Genomic Medicine__
 _266 Whitney Ave, New Haven, CT 06511_	
