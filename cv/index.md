@@ -1,94 +1,87 @@
 ---
 layout: default
-title: CV of Daniel J Spakowicz
+title: "Daniel J Spakowicz""
 ---
 
-	<div class="cv">
-		<a href="#" class="download" title="Download CV as PDF">Download CV</a>
+<div class="cv">
+	<a href="#" class="download" title="Download CV as PDF">Download CV</a>
 
-	
+
 __Yale University__		
 and __The Jackson Laboratory for Genomic Medicine__
-
 _266 Whitney Ave, New Haven, CT 06511_	
 _(612) 807-6316_	
 _daniel.spakowicz@yale.edu_
-
-		
-		
+	
+	
 ## EMPLOYMENT		
 
-	* National Library of Medicine Postdoctoral Fellow in Medical Informatics	06/2015-05/2017
+* National Library of Medicine Postdoctoral Fellow in Medical Informatics	06/2015-05/2017
 
-	* Postdoctoral Researcher	09/2014-06/2015
+* Postdoctoral Researcher	09/2014-06/2015
 
-	Integrating microbiome analyses with multi-omic host datasets	
-	George Weinstock Lab, Jackson Laboratory for Genomic Medicine, Farmington, CT	
-	Mark Gerstein's Lab	, Yale University, New Haven, CT	
-		
-	* Postdoctoral Research Associate	11/2013-09/2014
+Integrating microbiome analyses with multi-omic host datasets	
+George Weinstock Lab, Jackson Laboratory for Genomic Medicine, Farmington, CT	
+Mark Gerstein's Lab	, Yale University, New Haven, CT	
 	
-	Heterologous expression of iterative Polyketide Synthases	
+* Postdoctoral Research Associate	11/2013-09/2014
 
-	Scott A. Strobel Laboratory	, Yale University, New Haven, CT
-				
-	* Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014
-
-	Yale University, New Haven, CT	
-	
-	Lectured and developed course materials for a semester-long course with mandatory field work and summer research components	
-		
-	* Junior Researcher		2004-7
-
-	Dave Thomas's Lab, University of Minnesota	
-
-	My project involved understanding the atomic modifications that occur in muscle with aging. I became proficient in mass spectrometry and protein purification, as well as basic wetlab techniques.
-
+Heterologous expression of iterative Polyketide Synthases	
+Scott A. Strobel Laboratory	, Yale University, New Haven, CT
 			
-	* Student Researcher	2003
-	
+* Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014
 
-	Tony Dean's Lab, University of Minnesota	
-	
+Yale University, New Haven, CT	
 
-	Identified mutations in E. coli metabolism genes that conferred fitness advantages	
-		
-	* Laboratory Technician		2001-2
+Lectured and developed course materials for a semester-long course with mandatory field work and summer research components	
 	
+* Junior Researcher		2004-7
 
-	Judith Berman's Lab, University of Minnesota	
-	Washed dishes, made media, poured plates, etc.	
+Dave Thomas's Lab, University of Minnesota	
+
+My project involved understanding the atomic modifications that occur in muscle with aging. I became proficient in mass spectrometry and protein purification, as well as basic wetlab techniques.
 		
-		
-		
+* Student Researcher	2003
+
+Tony Dean's Lab, University of Minnesota	
+
+Identified mutations in E. coli metabolism genes that conferred fitness advantages	
+	
+* Laboratory Technician		2001-2
+
+Judith Berman's Lab, University of Minnesota	
+Washed dishes, made media, poured plates, etc.	
+	
+	
+	
 ## EDUCATION		
-	Ph.D.	2008-13
-	Scott A. Strobel Laboratory	
-	Yale University, New Haven, CT	
-	Dissertation: "Discovery and Genetics of biofuel production by endophytic fungi”	
-		
-	M. Phil	2007-8
-	Yale University, New Haven, CT	
-		
-	B.S.	2000-4
-	University of Minnesota, Minneapolis, MN	
-	Majors: Biochemistry, Ecology	
-	Minor: Chemistry	
-	Thesis: “Towards understanding the symbiosis between Nostoc punctiforme and Gunnera insignis”	
-		
+Ph.D.	2008-13
+Scott A. Strobel Laboratory	
+Yale University, New Haven, CT	
+Dissertation: "Discovery and Genetics of biofuel production by endophytic fungi”	
 	
-		
+M. Phil	2007-8
+Yale University, New Haven, CT	
+	
+B.S.	2000-4
+University of Minnesota, Minneapolis, MN	
+Majors: Biochemistry, Ecology	
+Minor: Chemistry	
+Thesis: “Towards understanding the symbiosis between Nostoc punctiforme and Gunnera insignis”	
+	
+
+	
 ## HONORS AND AWARDS		
-	Postdoctoral Fellowship in Medical Informatics 	2015-17
-	National Library of Medicine, Yale University	
-		
-	Yale Excellence in Teaching Award	2011
-	Teaching Assistant for "Rainforest Expedition and Laboratory" Course	
-		
-	Poster Awards	
-	Yale Climate and Energy Institute Conference	2011
-	Yale Molecular Biophysics and Biochemistry Department Retreat	2012
-		
+Postdoctoral Fellowship in Medical Informatics 	2015-17
+National Library of Medicine, Yale University	
+	
+Yale Excellence in Teaching Award	2011
+Teaching Assistant for "Rainforest Expedition and Laboratory" Course	
+	
+Poster Awards	
+Yale Climate and Energy Institute Conference	2011
+Yale Molecular Biophysics and Biochemistry Department Retreat	2012
+	
 ## [PUBLICATIONS](https://scholar.google.com/citations?user=Oxve9hAAAAAJ&hl=en&authuser=1)	
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
@@ -131,130 +124,129 @@ _daniel.spakowicz@yale.edu_
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Functional%2C%20structural%2C%20and%20chemical%20changes%20in%20myosin%20associated%20with%20hydrogen%20peroxide%20treatment%20of%20skeletal%20muscle%20fibers&amp;rft.jtitle=American%20Journal%20of%20Physiology-Cell%20Physiology&amp;rft.volume=294&amp;rft.issue=2&amp;rft.aufirst=Ewa&amp;rft.aulast=Prochniewicz&amp;rft.au=Ewa%20Prochniewicz&amp;rft.au=Dawn%20A.%20Lowe&amp;rft.au=Daniel%20J.%20Spakowicz&amp;rft.au=LeeAnn%20Higgins&amp;rft.au=Kate%20O'Conor&amp;rft.au=LaDora%20V.%20Thompson&amp;rft.au=Deborah%20A.%20Ferrington&amp;rft.au=David%20D.%20Thomas&amp;rft.date=2008&amp;rft.pages=C613%E2%80%93C626"></span>
 </div></body>
 </html>	
-		
+	
 ## TEACHING EXPERIENCE		
-	Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014
-	Yale University, New Haven, CT	
-	Rated one “America’s 10 Hottest Classes” in 2009 by thedailybeast	
-	Lecturered and developed course materials for a semester-long course with mandatory field work and summer research components	
-		
-	Teaching Assistant, Rainforest Expedition and Laboratory Course	2008-11
-	Yale University, New Haven, CT	
-	Lectured on Phylogenetics and tree building	
-	Led discussions of primary literature	
-	Helped design course direction and materials	
-	Received Yale's Excellence in Teaching Award	
-		
+Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014
+Yale University, New Haven, CT	
+Rated one “America’s 10 Hottest Classes” in 2009 by thedailybeast	
+Lecturered and developed course materials for a semester-long course with mandatory field work and summer research components	
+	
+Teaching Assistant, Rainforest Expedition and Laboratory Course	2008-11
+Yale University, New Haven, CT	
+Lectured on Phylogenetics and tree building	
+Led discussions of primary literature	
+Helped design course direction and materials	
+Received Yale's Excellence in Teaching Award	
+	
 ## TALKS	
 
+Mycological Society of America Meeting, New Haven, CT	2012
+Genomic and transcriptomic analysis of a novel endophytic fungus for the discovery of natural product pathways	
 	
-	Mycological Society of America Meeting, New Haven, CT	2012
-	Genomic and transcriptomic analysis of a novel endophytic fungus for the discovery of natural product pathways	
-		
-	Yale Molecular Biophysics and Biochemistry Department Retreat	2010
-	Biofuel production by novel endophytic fungi	
-		
-	US Department of Defense National Security Fellows Conference, Washington D.C.	07/2009
-	Biofuel production by novel endophytic fungi	
-		
-	Cell and Molecular Biology Training Grant Symposium, Yale University	02/2009
-	Towards the identification of the genes responsible for biofuel production in Ascocoryne sarcoides	
-		
+Yale Molecular Biophysics and Biochemistry Department Retreat	2010
+Biofuel production by novel endophytic fungi	
+	
+US Department of Defense National Security Fellows Conference, Washington D.C.	07/2009
+Biofuel production by novel endophytic fungi	
+	
+Cell and Molecular Biology Training Grant Symposium, Yale University	02/2009
+Towards the identification of the genes responsible for biofuel production in Ascocoryne sarcoides	
+	
 
 ## POSTERS	
 
+Yale Molecular Biophysics and Biochemistry Department Retreat	10/2012
+Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
+Poster Award	
 	
-	Yale Molecular Biophysics and Biochemistry Department Retreat	10/2012
-	Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
-	Poster Award	
-		
-	Gordon Research Conference: Natural Products	07/2012
-	Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
-		
-	Yale Climate and Energy Institute Conference	2011
-	Compound Context Analysis reveals hydrocarbon production genes in Ascocoryne sarcoides	
-	Poster Award	
-		
-	Yale Climate and Energy Institute Conference	2010
-	Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
-		
-	Yale Molecular Biophysics and Biochemistry Department Retreat	2009
-	Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
-		
-	Yale Molecular Biophysics and Biochemistry Department Retreat	2008
-	Towards genetic undestanding of biofuel production pathways in Ascocoryne sarcoides	
-		
-	Biophysical Society Meeting	2007
-	Age-related damage to myosin in skeletal muscle fibers	
-		
-	Biophysical Society Meeting	2006
-	Oxidation-induced damage to actin in skeletal muscle fibers	
-		
+Gordon Research Conference: Natural Products	07/2012
+Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
+	
+Yale Climate and Energy Institute Conference	2011
+Compound Context Analysis reveals hydrocarbon production genes in Ascocoryne sarcoides	
+Poster Award	
+	
+Yale Climate and Energy Institute Conference	2010
+Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
+	
+Yale Molecular Biophysics and Biochemistry Department Retreat	2009
+Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
+	
+Yale Molecular Biophysics and Biochemistry Department Retreat	2008
+Towards genetic undestanding of biofuel production pathways in Ascocoryne sarcoides	
+	
+Biophysical Society Meeting	2007
+Age-related damage to myosin in skeletal muscle fibers	
+	
+Biophysical Society Meeting	2006
+Oxidation-induced damage to actin in skeletal muscle fibers	
+	
 ## FIELD WORK		
 
-
-	Sarawak, Malaysia	11/2011
-	Isolation of novel volatile-producing endophytes	
-	Led an expedition to collect plant specimens in Bako and Kubah National Parks	
-		
-	Amazon Basin, Ecuador	03/2008-10
-	Isolation of novel endophytes	
-	Collected plant specimens from Cerro Blanco Dry Forest, a variety of locations in the cloud forests near Mindo, at several locations along the Napo river in the Amazon basin, in the Yasuni National Preserve, in the altiplano region zone above 11,000’, and in the Podocarpus forest near Loja.	
-		
-	Patagonia, Chile	12/2007
-	Collection of alternative strains of the biofuel producing endophyte Ascocoryne sarcoides	
-	Collected samples from private property near Punta Arenas and Puerto Montt.	
-		
-	Monteverde, Costa Rica	02-06/2004
-	Undergraduate Thesis	
-	The goal of this work was to understand the relationship between a blue-green alga and its host montane herb.	
-		
+Sarawak, Malaysia	11/2011
+Isolation of novel volatile-producing endophytes	
+Led an expedition to collect plant specimens in Bako and Kubah National Parks	
+	
+Amazon Basin, Ecuador	03/2008-10
+Isolation of novel endophytes	
+Collected plant specimens from Cerro Blanco Dry Forest, a variety of locations in the cloud forests near Mindo, at several locations along the Napo river in the Amazon basin, in the Yasuni National Preserve, in the altiplano region zone above 11,000’, and in the Podocarpus forest near Loja.	
+	
+Patagonia, Chile	12/2007
+Collection of alternative strains of the biofuel producing endophyte Ascocoryne sarcoides	
+Collected samples from private property near Punta Arenas and Puerto Montt.	
+	
+Monteverde, Costa Rica	02-06/2004
+Undergraduate Thesis	
+The goal of this work was to understand the relationship between a blue-green alga and its host montane herb.	
+	
 
 ## OTHER RELEVANT EXPERIENCE				
 ### Scientific Reviewing/Judging/Mentoring	
-	* Ad hoc reviewer for the journal Fungal Biotechnology	03/2016
-	* Ad hoc reviewer for the journal Biofuels	03/2012
-	* Ad hoc reviewer for the journal Bioresource Technology	04/2011
-	* Judge, iGEM Jamboree	11/2010
-	* Co-founder and Advisor to the Yale iGEM team	2009-2012
-	* Judge, CT science fair	2008-9
-		
+* Ad hoc reviewer for the journal Fungal Biotechnology	03/2016
+* Ad hoc reviewer for the journal Biofuels	03/2012
+* Ad hoc reviewer for the journal Bioresource Technology	04/2011
+* Judge, iGEM Jamboree	11/2010
+* Co-founder and Advisor to the Yale iGEM team	2009-2012
+* Judge, CT science fair	2008-9
+	
 ### Community Involvement/Outreach
 
-	* Benefits Director, circlesocial.com (Benefits Corporation)	2016-present
-	* Board of Directors, Elm City Cycling (non-profit 501c3)	2010-14
-	* Elected Representative to the Yale Graduate Student Assembly	2008-12
-	* Member of the Yale Graduate Student Assembly Steering Committee	2010-12
-	* Member and Chair of the Yale Graduate Student Assembly Teaching Committee	2009-10
-	* Graduate Student Represenative to the Yale Grievance Committee	2011-12
-	* Graduate Student Represenative to the Yale Traffic Safety Subcommittee	2011-13
-	* First Author of "Intersection Safety Report: Identifying the most dangerous 	intersections on the Yale Campus to prioritize action". 	04/2012
-	* Member of the Graduate Student Assembly Transit and Security Committee 	2008-12
-	* Ad hoc reviewer for the Graduate Student Assembly Conference Travel Fund	2009-10
-	* Co-first author of the report "Yale Bike Plan"  that diagrammed and described 		the needs and desires of the graduate student community for cycling 		infrastructure on the Yale campus	09/2012
-		
+* Benefits Director, circlesocial.com (Benefits Corporation)	2016-present
+* Board of Directors, Elm City Cycling (non-profit 501c3)	2010-14
+* Elected Representative to the Yale Graduate Student Assembly	2008-12
+* Member of the Yale Graduate Student Assembly Steering Committee	2010-12
+* Member and Chair of the Yale Graduate Student Assembly Teaching Committee	2009-10
+* Graduate Student Represenative to the Yale Grievance Committee	2011-12
+* Graduate Student Represenative to the Yale Traffic Safety Subcommittee	2011-13
+* First Author of "Intersection Safety Report: Identifying the most dangerous 	intersections on the Yale Campus to prioritize action". 	04/2012
+* Member of the Graduate Student Assembly Transit and Security Committee 	2008-12
+* Ad hoc reviewer for the Graduate Student Assembly Conference Travel Fund	2009-10
+* Co-first author of the report "Yale Bike Plan"  that diagrammed and described 		the needs and desires of the graduate student community for cycling 		infrastructure on the Yale campus	09/2012
+	
 ## PROFESSIONAL MEMBERSHIPS		
-	American Society for Microbiology	2015
-	Mycology Society of America	2012-15
-	Biophysical Society	2006-7
-		
+* American Society for Microbiology	2015
+* Mycology Society of America	2012-15
+* Biophysical Society	2006-7
+	
 
 ## GRADUATE COURSEWORK		
 
-	* Molecular Structure and Function (U of Minn)	2005
-	* Muscle (U of Minn)	2006
-	* Advanced Genetic Analysis (Yale)	2007
-	* MathematicalMethods in Biophys (Yale)	2007
-	* Macromolecular Structure (Yale)	2007
-	* Methods & Logic Molecular Bio (Yale)	2007
-	* Macromolecular Interactions (Yale)	2008
-	* Adv Eukaryotic Molecular Biology (Yale)	2008
-	* Enzyme Mechanisms (Yale)	2008
-	* Phylogenetics & Macroevolution (Yale)	2008
-	* Phylogenetics Laboratory (Yale)	2008
-	* Eukaryotic Genome Annotation and Analysis (JCVI, Rockville, MD)	2008
-	* Business of Biotech (Yale Week-long Seminar Series)	2012
-	* Medical Informatics (Yale)	2015
-	* Advanced Data Analysis (Yale)	2015
-	* Bioinformatics: Data Mining and Simulation (Yale)	2016
-	* Longitudinal and Multilevel Statistics (Yale)	2016
+* Molecular Structure and Function (U of Minn)	2005
+* Muscle (U of Minn)	2006
+* Advanced Genetic Analysis (Yale)	2007
+* MathematicalMethods in Biophys (Yale)	2007
+* Macromolecular Structure (Yale)	2007
+* Methods & Logic Molecular Bio (Yale)	2007
+* Macromolecular Interactions (Yale)	2008
+* Adv Eukaryotic Molecular Biology (Yale)	2008
+* Enzyme Mechanisms (Yale)	2008
+* Phylogenetics & Macroevolution (Yale)	2008
+* Phylogenetics Laboratory (Yale)	2008
+* Eukaryotic Genome Annotation and Analysis (JCVI, Rockville, MD)	2008
+* Business of Biotech (Yale Week-long Seminar Series)	2012
+* Medical Informatics (Yale)	2015
+* Advanced Data Analysis (Yale)	2015
+* Bioinformatics: Data Mining and Simulation (Yale)	2016
+* Longitudinal and Multilevel Statistics (Yale)	2016
+
+
