@@ -5,8 +5,11 @@ title: "Daniel J Spakowicz""
 # Dan Spakowicz
 __Yale University__		
 and __The Jackson Laboratory for Genomic Medicine__
+
 _266 Whitney Ave, New Haven, CT 06511_	
+
 _(612) 807-6316_	
+
 _daniel.spakowicz@yale.edu_
 	
 	
