@@ -3,9 +3,7 @@ layout: default
 title: "Daniel J Spakowicz""
 ---
 
-<div class="cv">
-	<a href="#" class="download" title="Download CV as PDF">Download CV</a>
-
+# Dan Spakowicz
 
 __Yale University__		
 and __The Jackson Laboratory for Genomic Medicine__
