@@ -127,7 +127,10 @@ __Instructor, Rainforest Expedition and Laboratory Course  01/2014-09/2014__
 
 Yale University, New Haven, CT	
 
-	Rated one “America’s 10 Hottest Classes” in 2009 by thedailybeast.com. Lecturered and developed course materials for a semester-long course with mandatory field work and summer research components	
+		* Rated one “America’s 10 Hottest Classes” in 2009 by thedailybeast.com. 
+		* Lecturered and developed course materials 
+		* Included mandatory field work in Ecuador and summer research for all participants
+		* Helped direct independent projects of 16 undergraduates
 	
 __Teaching Assistant, Rainforest Expedition and Laboratory Course  2008-11__
 
