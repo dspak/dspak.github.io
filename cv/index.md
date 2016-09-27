@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Daniel J Spakowicz""
+title: Curriculum Vitae: Dan Spakowicz
 ---
 
 # Dan Spakowicz
