@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curriculum Vitae: Dan Spakowicz
+title: Dan Spakowicz
 ---
 
 # Dan Spakowicz
