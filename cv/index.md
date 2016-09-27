@@ -3,7 +3,7 @@ layout: default
 title: Dan Spakowicz
 ---
 
-# Dan Spakowicz
+# Curriculum Vitae -- Dan Spakowicz
 
 __Yale University__		
 and __The Jackson Laboratory for Genomic Medicine__
@@ -19,27 +19,30 @@ __National Library of Medicine Postdoctoral Fellow in Medical Informatics	06/201
 
 __Postdoctoral Researcher	09/2014-06/2015__
 
-	George Weinstock Lab, Jackson Laboratory for Genomic Medicine, Farmington, CT	Mark Gerstein's Lab	, Yale University, New Haven, CT
-	Integrating microbiome analyses with multi-omic host datasets	
+* George Weinstock Lab, Jackson Laboratory for Genomic Medicine, Farmington, CT	
+* Mark Gerstein's Lab	, Yale University, New Haven, CT
+* Integrating microbiome analyses with multi-omic host datasets	
 				
 __Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014__
 
-	Yale University, New Haven, CT	
-	Lectured and developed course materials for a semester-long course with mandatory field work and summer research components	
+* Yale University, New Haven, CT	
+* Lectured and developed course materials for a semester-long course with mandatory field work and summer research components	
 	
 __Junior Researcher		2004-7__
 
-	Dave Thomas's Lab, University of Minnesota	
-	My project involved understanding the atomic modifications that occur in muscle with aging. I became proficient in mass spectrometry and protein purification, as well as basic wetlab techniques.
+* Dave Thomas's Lab, University of Minnesota	
+* Atomic modifications to muscle proteins during aging. 
+* Mass spectrometry and protein purification
 		
 __Student Researcher	2003__
 
-	Tony Dean's Lab, University of Minnesota	
-	Identified mutations in E. coli lac operon that conferred fitness advantages in different growth media	
+* Tony Dean's Lab, University of Minnesota	
+* Identified mutations in E. coli lac operon that conferred fitness advantages in different growth media	
 	
 __Laboratory Technician		2001-2__
 
-	Judith Berman's Lab, University of Minnesota	Washed dishes, made media, poured plates, etc.	
+* Judith Berman's Lab, University of Minnesota	
+* Washed dishes, made media, poured plates, etc.	
 	
 	
 	
