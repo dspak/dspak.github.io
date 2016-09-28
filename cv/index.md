@@ -83,10 +83,6 @@ __Poster Awards__
 	
 ## [PUBLICATIONS](https://scholar.google.com/citations?user=Oxve9hAAAAAJ&hl=en&authuser=1)	
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Bibliography</title>
-</head>
 <body>
 <div style="line-height: 1.35; " class="csl-bib-body">
   <div style="margin-bottom: 1em;" class="csl-entry">1. Muir, P., Li, S., Lou, S., Wang, D., Spakowicz, D. J., Salichos, L., Zhang, J., Weinstock, G. M., Isaacs, F., Rozowsky, J., and Gerstein, M. “<b>The Real Cost of Sequencing: Scaling Computation to Keep Pace with Data Generation</b>” <i>Genome Biology</i> 17, (2016): doi:10.1186/s13059-016-0917-0, Available at http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4806511/ </div>
@@ -148,79 +144,78 @@ Yale University, New Haven, CT
 
 __Mycological Society of America Meeting, New Haven, CT 2012__
 
-	Genomic and transcriptomic analysis of a novel endophytic fungus for the discovery of natural product pathways	
+* Genomic and transcriptomic analysis of a novel endophytic fungus for the discovery of natural product pathways	
 	
 __Yale Molecular Biophysics and Biochemistry Department Retreat 2010__ 
 		
-	Biofuel production by novel endophytic fungi	
+* Biofuel production by novel endophytic fungi	
 	
 __US Department of Defense National Security Fellows Conference, Washington D.C. 07/2009__
 
-	Biofuel production by novel endophytic fungi	
+* Biofuel production by novel endophytic fungi	
 	
 __Cell and Molecular Biology Training Grant Symposium, Yale University  02/2009__
 
-	Towards the identification of the genes responsible for biofuel production in Ascocoryne sarcoides	
+* Towards the identification of the genes responsible for biofuel production in Ascocoryne sarcoides	
 	
 
 ## POSTERS	
 
 __Yale Molecular Biophysics and Biochemistry Department Retreat	10/2012__
 
-	Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
-	Poster Award	
+* Genomic and transcriptomic analysis of a novel endophyte for the discovery of natural product pathways	
+* __Poster Award__	
 	
 __Gordon Research Conference: Natural Products	07/2012__
 
-	Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
+* Genomic and transcriptomic analysis of a novel endophyte for the discovery of natural product pathways	
 	
 __Yale Climate and Energy Institute Conference	2011__
 
-	Compound Context Analysis reveals hydrocarbon production genes in Ascocoryne sarcoides	
-	Poster Award	
+* Compound Context Analysis reveals hydrocarbon production genes in Ascocoryne sarcoides	
+* __Poster Award__
 	
 __Yale Climate and Energy Institute Conference	2010__
 
-	Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
+* Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
 	
 __Yale Molecular Biophysics and Biochemistry Department Retreat	2009__
 
-	Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
+* Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
 	
 __Yale Molecular Biophysics and Biochemistry Department Retreat	2008__
 
-	Towards genetic undestanding of biofuel production pathways in Ascocoryne sarcoides	
+* Towards genetic undestanding of biofuel production pathways in Ascocoryne sarcoides	
 	
 __Biophysical Society Meeting	2007__
 
-	Age-related damage to myosin in skeletal muscle fibers	
+* Age-related damage to myosin in skeletal muscle fibers	
 	
 __Biophysical Society Meeting	2006__
 
-	Oxidation-induced damage to actin in skeletal muscle fibers	
+* Oxidation-induced damage to actin in skeletal muscle fibers	
 	
 ## FIELD WORK		
 
 __Sarawak, Malaysia	11/2011__
 
-	Isolation of novel volatile-producing endophytes	
-	Led an expedition to collect plant specimens in Bako and Kubah National Parks	
+* Isolation of novel volatile-producing endophytes	
+* Led an expedition to collect plant specimens in Bako and Kubah National Parks	
 	
 __Amazon Basin, Ecuador	03/2008-10__
 
-	Isolation of novel endophytes	
-	
-	Collected plant specimens from Cerro Blanco Dry Forest, a variety of locations in the cloud forests near Mindo, at several locations along the Napo river in the Amazon basin, in the Yasuni National Preserve, in the altiplano region zone above 11,000’, and in the Podocarpus forest near Loja.	
+* Isolation of novel endophytes		
+* Collected plant specimens from Cerro Blanco Dry Forest, a variety of locations in the cloud forests near Mindo, at several locations along the Napo river in the Amazon basin, in the Yasuni National Preserve, in the altiplano region zone above 11,000’, and in the Podocarpus forest near Loja.	
 	
 __Patagonia, Chile	12/2007__
 
-	Collection of alternative strains of the biofuel producing endophyte Ascocoryne sarcoides	
-	Collected samples from private property near Punta Arenas and Puerto Montt.	
+* Collection of alternative strains of the biofuel producing endophyte Ascocoryne sarcoides	
+* Collected samples from private property near Punta Arenas and Puerto Montt.	
 	
 __Monteverde, Costa Rica	02-06/2004__
 
-	Undergraduate Thesis	
-	The goal of this work was to understand the relationship between a blue-green alga and its host montane herb.	
+* Undergraduate Thesis	
+* The goal of this work was to understand the relationship between a blue-green alga and its host montane herb.	
 	
 
 ## OTHER RELEVANT EXPERIENCE				
