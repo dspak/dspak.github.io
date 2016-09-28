@@ -249,8 +249,8 @@ __Monteverde, Costa Rica	02-06/2004__
 
 ## GRADUATE COURSEWORK		
 
-* Molecular Structure and Function (U of Minn)	2005
-* Muscle (U of Minn)	2006
+* Molecular Structure and Function (U of MN)	2005
+* Muscle (U of MN)	2006
 * Advanced Genetic Analysis (Yale)	2007
 * MathematicalMethods in Biophys (Yale)	2007
 * Macromolecular Structure (Yale)	2007
