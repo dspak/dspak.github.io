@@ -159,6 +159,7 @@ __Cell and Molecular Biology Training Grant Symposium, Yale University  02/2009_
 
 * Towards the identification of the genes responsible for biofuel production in Ascocoryne sarcoides	
 	
+**** 
 
 ## POSTERS	
 
@@ -195,7 +196,9 @@ __Biophysical Society Meeting	2007__
 __Biophysical Society Meeting	2006__
 
 * Oxidation-induced damage to actin in skeletal muscle fibers	
-	
+
+****
+
 ## FIELD WORK		
 
 __Sarawak, Malaysia	11/2011__
@@ -218,6 +221,7 @@ __Monteverde, Costa Rica	02-06/2004__
 * Undergraduate Thesis	
 * The goal of this work was to understand the relationship between a blue-green alga and its host montane herb.	
 	
+****
 
 ## OTHER RELEVANT EXPERIENCE	
 
@@ -244,12 +248,15 @@ __Monteverde, Costa Rica	02-06/2004__
 * Ad hoc reviewer for the Graduate Student Assembly Conference Travel Fund	2009-10
 * Co-first author of the report "Yale Bike Plan"  that diagrammed and described 		the needs and desires of the graduate student community for cycling 		infrastructure on the Yale campus	09/2012
 	
+**** 
+
 ## PROFESSIONAL MEMBERSHIPS
 
 * American Society for Microbiology	2015-present
 * Mycology Society of America	2012-15
 * Biophysical Society	2006-7
 	
+**** 
 
 ## GRADUATE COURSEWORK		
 
