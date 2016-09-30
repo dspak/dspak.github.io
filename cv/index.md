@@ -44,7 +44,7 @@ __Laboratory Technician		2001-2__
 * Judith Berman's Lab, University of Minnesota	
 * Washed dishes, made media, poured plates, etc.	
 	
-	
+****
 	
 ## EDUCATION		
 
@@ -64,7 +64,7 @@ __B.S. University of Minnesota, Minneapolis, MN  2000-4__
 	Minor: Chemistry	
 	Thesis: “Towards understanding the symbiosis between Nostoc punctiforme and Gunnera insignis”	
 	
-
+****
 	
 ## HONORS AND AWARDS		
 
@@ -80,6 +80,8 @@ __Poster Awards__
 	
 	Yale Climate and Energy Institute Conference	2011
 	Yale Molecular Biophysics and Biochemistry Department Retreat	2012
+	
+****
 	
 ## [PUBLICATIONS](https://scholar.google.com/citations?user=Oxve9hAAAAAJ&hl=en&authuser=1)	
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
@@ -120,7 +122,9 @@ __Poster Awards__
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Functional%2C%20structural%2C%20and%20chemical%20changes%20in%20myosin%20associated%20with%20hydrogen%20peroxide%20treatment%20of%20skeletal%20muscle%20fibers&amp;rft.jtitle=American%20Journal%20of%20Physiology-Cell%20Physiology&amp;rft.volume=294&amp;rft.issue=2&amp;rft.aufirst=Ewa&amp;rft.aulast=Prochniewicz&amp;rft.au=Ewa%20Prochniewicz&amp;rft.au=Dawn%20A.%20Lowe&amp;rft.au=Daniel%20J.%20Spakowicz&amp;rft.au=LeeAnn%20Higgins&amp;rft.au=Kate%20O'Conor&amp;rft.au=LaDora%20V.%20Thompson&amp;rft.au=Deborah%20A.%20Ferrington&amp;rft.au=David%20D.%20Thomas&amp;rft.date=2008&amp;rft.pages=C613%E2%80%93C626"></span>
 </div></body>
 </html>	
-	
+
+****
+
 ## TEACHING EXPERIENCE
 
 __Instructor, Rainforest Expedition and Laboratory Course  01/2014-09/2014__
@@ -140,7 +144,9 @@ Yale University, New Haven, CT
 		* Led discussions of primary literature		
 		* Helped design course direction and materials
 		* Received Yale's Excellence in Teaching Award	
-	
+
+**** 
+
 ## TALKS	
 
 __Mycological Society of America Meeting, New Haven, CT 2012__
