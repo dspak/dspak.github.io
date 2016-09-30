@@ -19,24 +19,20 @@ __National Library of Medicine Postdoctoral Fellow in Medical Informatics	06/201
 
 __Postdoctoral Researcher	09/2014-06/2015__
 
-<<<<<<< HEAD
-	* George Weinstock Lab, Jackson Laboratory for Genomic Medicine, Farmington, CT
-	* Mark Gerstein's Lab, Yale University, New Haven, CT
-	Integrating microbiome analyses with multi-omic host datasets	
+* George Weinstock Lab, Jackson Laboratory for Genomic Medicine, Farmington, CT
+* Mark Gerstein's Lab, Yale University, New Haven, CT
+* Integrating microbiome analyses with multi-omic host datasets	
 				
 __Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014__
 
-	* Yale University, New Haven, CT	
-	Lectured and developed course materials for a semester-long course with mandatory field work and summer research components	
+* Yale University, New Haven, CT	
+* Lectured and developed course materials 
+* Requied of students mandatory field work and summer research
 	
-__Junior Researcher		2004-7__
+__Junior Researcher 2004-7__
 
-	* Dave Thomas's Lab, University of Minnesota	
-	My project involved understanding the atomic modifications that occur in muscle with aging. I became proficient in mass spectrometry and protein purification, as well as basic wetlab techniques.
-=======
-* George Weinstock Lab, Jackson Laboratory for Genomic Medicine, Farmington, CT	
-* Mark Gerstein's Lab	, Yale University, New Haven, CT
-* Integrating microbiome analyses with multi-omic host datasets	
+* Dave Thomas's Lab, University of Minnesota	
+* My project involved understanding the atomic modifications that occur in muscle with aging. I became proficient in mass spectrometry and protein purification, as well as basic wetlab techniques.
 				
 __Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014__
 
