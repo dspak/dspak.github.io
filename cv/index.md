@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Curriculum Vitae: Dan Spakowicz
+title: Dan Spakowicz
 ---
 
-# Dan Spakowicz
+# Curriculum Vitae -- Dan Spakowicz
 
 __Yale University__		
 and __The Jackson Laboratory for Genomic Medicine__
@@ -19,6 +19,7 @@ __National Library of Medicine Postdoctoral Fellow in Medical Informatics	06/201
 
 __Postdoctoral Researcher	09/2014-06/2015__
 
+<<<<<<< HEAD
 	* George Weinstock Lab, Jackson Laboratory for Genomic Medicine, Farmington, CT
 	* Mark Gerstein's Lab, Yale University, New Haven, CT
 	Integrating microbiome analyses with multi-omic host datasets	
@@ -32,59 +33,74 @@ __Junior Researcher		2004-7__
 
 	* Dave Thomas's Lab, University of Minnesota	
 	My project involved understanding the atomic modifications that occur in muscle with aging. I became proficient in mass spectrometry and protein purification, as well as basic wetlab techniques.
+=======
+* George Weinstock Lab, Jackson Laboratory for Genomic Medicine, Farmington, CT	
+* Mark Gerstein's Lab	, Yale University, New Haven, CT
+* Integrating microbiome analyses with multi-omic host datasets	
+				
+__Instructor, Rainforest Expedition and Laboratory Course	01/2014-09/2014__
+
+* Yale University, New Haven, CT	
+* Lectured and developed course materials for a semester-long course with mandatory field work and summer research components	
+	
+__Junior Researcher		2004-7__
+
+* Dave Thomas's Lab, University of Minnesota
+* Atomic modifications to muscle proteins during aging. 
+* Mass spectrometry and protein purification
+
 		
 __Student Researcher	2003__
 
-	Tony Dean's Lab, University of Minnesota	
-	Identified mutations in E. coli lac operon that conferred fitness advantages in different growth media	
+* Tony Dean's Lab, University of Minnesota	
+* Identified mutations in E. coli lac operon that conferred fitness advantages in different growth media	
 	
 __Laboratory Technician		2001-2__
 
-	Judith Berman's Lab, University of Minnesota	Washed dishes, made media, poured plates, etc.	
+* Judith Berman's Lab, University of Minnesota	
+* Washed dishes, made media, poured plates, etc.	
 	
-	
+****
 	
 ## EDUCATION		
 
 
 __M.S. Yale University, Biomedical Informatics  2015-17__
 
-	Focus: Biological Data Science
+* Focus: Biological Data Science
 	
 __Ph.D.	Yale University, Molecular Biophysics & Biochemistry 2008-13__
 
-	Advisor: Scott A. Strobel
-	Dissertation: "Discovery and Genetics of biofuel production by endophytic fungi”	
+* Advisor: Scott A. Strobel
+* Dissertation: "Discovery and Genetics of biofuel production by endophytic fungi”	
 		
 __B.S. University of Minnesota, Minneapolis, MN  2000-4__
 
-	Majors: Biochemistry, Ecology	
-	Minor: Chemistry	
-	Thesis: “Towards understanding the symbiosis between Nostoc punctiforme and Gunnera insignis”	
+* Majors: Biochemistry, Ecology	
+* Minor: Chemistry	
+* Thesis: “Towards understanding the symbiosis between Nostoc punctiforme and Gunnera insignis”	
 	
-
+****
 	
 ## HONORS AND AWARDS		
 
 __Postdoctoral Fellowship in Medical Informatics 2015-17__
 
-	National Library of Medicine, Yale University	
+* National Library of Medicine, Yale University	
 	
 __Yale Excellence in Teaching Award 2011__
 
-	Yale's "Rainforest Expedition and Laboratory" Course	
+* Yale's "Rainforest Expedition and Laboratory" Course	
 	
 __Poster Awards__
 	
-	Yale Climate and Energy Institute Conference	2011
-	Yale Molecular Biophysics and Biochemistry Department Retreat	2012
+* Yale Climate and Energy Institute Conference (2011)
+* Yale Molecular Biophysics and Biochemistry Department Retreat (2012)
+	
+****
 	
 ## [PUBLICATIONS](https://scholar.google.com/citations?user=Oxve9hAAAAAJ&hl=en&authuser=1)	
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Bibliography</title>
-</head>
 <body>
 <div style="line-height: 1.35; " class="csl-bib-body">
   <div style="margin-bottom: 1em;" class="csl-entry">1. Muir, P., Li, S., Lou, S., Wang, D., Spakowicz, D. J., Salichos, L., Zhang, J., Weinstock, G. M., Isaacs, F., Rozowsky, J., and Gerstein, M. “<b>The Real Cost of Sequencing: Scaling Computation to Keep Pace with Data Generation</b>” <i>Genome Biology</i> 17, (2016): doi:10.1186/s13059-016-0917-0, Available at http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4806511/ </div>
@@ -122,8 +138,11 @@ __Poster Awards__
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Functional%2C%20structural%2C%20and%20chemical%20changes%20in%20myosin%20associated%20with%20hydrogen%20peroxide%20treatment%20of%20skeletal%20muscle%20fibers&amp;rft.jtitle=American%20Journal%20of%20Physiology-Cell%20Physiology&amp;rft.volume=294&amp;rft.issue=2&amp;rft.aufirst=Ewa&amp;rft.aulast=Prochniewicz&amp;rft.au=Ewa%20Prochniewicz&amp;rft.au=Dawn%20A.%20Lowe&amp;rft.au=Daniel%20J.%20Spakowicz&amp;rft.au=LeeAnn%20Higgins&amp;rft.au=Kate%20O'Conor&amp;rft.au=LaDora%20V.%20Thompson&amp;rft.au=Deborah%20A.%20Ferrington&amp;rft.au=David%20D.%20Thomas&amp;rft.date=2008&amp;rft.pages=C613%E2%80%93C626"></span>
 </div></body>
 </html>	
-	
-## TEACHING EXPERIENCE		
+
+****
+
+## TEACHING EXPERIENCE
+
 __Instructor, Rainforest Expedition and Laboratory Course  01/2014-09/2014__
 
 Yale University, New Haven, CT	
@@ -141,88 +160,95 @@ Yale University, New Haven, CT
 		* Led discussions of primary literature		
 		* Helped design course direction and materials
 		* Received Yale's Excellence in Teaching Award	
-	
+
+**** 
+
 ## TALKS	
 
 __Mycological Society of America Meeting, New Haven, CT 2012__
 
-	Genomic and transcriptomic analysis of a novel endophytic fungus for the discovery of natural product pathways	
+* Genomic and transcriptomic analysis of a novel endophytic fungus for the discovery of natural product pathways	
 	
 __Yale Molecular Biophysics and Biochemistry Department Retreat 2010__ 
 		
-	Biofuel production by novel endophytic fungi	
+* Biofuel production by novel endophytic fungi	
 	
 __US Department of Defense National Security Fellows Conference, Washington D.C. 07/2009__
 
-	Biofuel production by novel endophytic fungi	
+* Biofuel production by novel endophytic fungi	
 	
 __Cell and Molecular Biology Training Grant Symposium, Yale University  02/2009__
 
-	Towards the identification of the genes responsible for biofuel production in Ascocoryne sarcoides	
+* Towards the identification of the genes responsible for biofuel production in Ascocoryne sarcoides	
 	
+**** 
 
 ## POSTERS	
 
 __Yale Molecular Biophysics and Biochemistry Department Retreat	10/2012__
 
-	Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
-	Poster Award	
+* Genomic and transcriptomic analysis of a novel endophyte for the discovery of natural product pathways	
+* __Poster Award__	
 	
 __Gordon Research Conference: Natural Products	07/2012__
 
-	Genomic and transcriptomic analysis of the novel endophytic isolate for the discovery of natural product pathways	
+* Genomic and transcriptomic analysis of a novel endophyte for the discovery of natural product pathways	
 	
 __Yale Climate and Energy Institute Conference	2011__
 
-	Compound Context Analysis reveals hydrocarbon production genes in Ascocoryne sarcoides	
-	Poster Award	
+* Compound Context Analysis reveals hydrocarbon production genes in Ascocoryne sarcoides	
+* __Poster Award__
 	
 __Yale Climate and Energy Institute Conference	2010__
 
-	Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
+* Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
 	
 __Yale Molecular Biophysics and Biochemistry Department Retreat	2009__
 
-	Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
+* Towards the creation of genetic tools in the biofuel producing endophytic fungus Ascocoryne sarcoides	
 	
 __Yale Molecular Biophysics and Biochemistry Department Retreat	2008__
 
-	Towards genetic undestanding of biofuel production pathways in Ascocoryne sarcoides	
+* Towards genetic undestanding of biofuel production pathways in Ascocoryne sarcoides	
 	
 __Biophysical Society Meeting	2007__
 
-	Age-related damage to myosin in skeletal muscle fibers	
+* Age-related damage to myosin in skeletal muscle fibers	
 	
 __Biophysical Society Meeting	2006__
 
-	Oxidation-induced damage to actin in skeletal muscle fibers	
-	
+* Oxidation-induced damage to actin in skeletal muscle fibers	
+
+****
+
 ## FIELD WORK		
 
 __Sarawak, Malaysia	11/2011__
 
-	Isolation of novel volatile-producing endophytes	
-	Led an expedition to collect plant specimens in Bako and Kubah National Parks	
+* Isolation of novel volatile-producing endophytes	
+* Led an expedition to collect plant specimens in Bako and Kubah National Parks	
 	
 __Amazon Basin, Ecuador	03/2008-10__
 
-	Isolation of novel endophytes	
-	
-	Collected plant specimens from Cerro Blanco Dry Forest, a variety of locations in the cloud forests near Mindo, at several locations along the Napo river in the Amazon basin, in the Yasuni National Preserve, in the altiplano region zone above 11,000’, and in the Podocarpus forest near Loja.	
+* Isolation of novel endophytes		
+* Collected plant specimens from Cerro Blanco Dry Forest, a variety of locations in the cloud forests near Mindo, at several locations along the Napo river in the Amazon basin, in the Yasuni National Preserve, in the altiplano region zone above 11,000’, and in the Podocarpus forest near Loja.	
 	
 __Patagonia, Chile	12/2007__
 
-	Collection of alternative strains of the biofuel producing endophyte Ascocoryne sarcoides	
-	Collected samples from private property near Punta Arenas and Puerto Montt.	
+* Collection of alternative strains of the biofuel producing endophyte Ascocoryne sarcoides	
+* Collected samples from private property near Punta Arenas and Puerto Montt.	
 	
 __Monteverde, Costa Rica	02-06/2004__
 
-	Undergraduate Thesis	
-	The goal of this work was to understand the relationship between a blue-green alga and its host montane herb.	
+* Undergraduate Thesis	
+* The goal of this work was to understand the relationship between a blue-green alga and its host montane herb.	
 	
+****
 
-## OTHER RELEVANT EXPERIENCE				
-### Scientific Reviewing/Judging/Mentoring	
+## OTHER RELEVANT EXPERIENCE	
+
+### Scientific Reviewing/Judging/Mentoring
+
 * Ad hoc reviewer for the journal Fungal Biotechnology	03/2016
 * Ad hoc reviewer for the journal Biofuels	03/2012
 * Ad hoc reviewer for the journal Bioresource Technology	04/2011
@@ -244,16 +270,20 @@ __Monteverde, Costa Rica	02-06/2004__
 * Ad hoc reviewer for the Graduate Student Assembly Conference Travel Fund	2009-10
 * Co-first author of the report "Yale Bike Plan"  that diagrammed and described 		the needs and desires of the graduate student community for cycling 		infrastructure on the Yale campus	09/2012
 	
-## PROFESSIONAL MEMBERSHIPS		
+**** 
+
+## PROFESSIONAL MEMBERSHIPS
+
 * American Society for Microbiology	2015-present
 * Mycology Society of America	2012-15
 * Biophysical Society	2006-7
 	
+**** 
 
 ## GRADUATE COURSEWORK		
 
-* Molecular Structure and Function (U of Minn)	2005
-* Muscle (U of Minn)	2006
+* Molecular Structure and Function (U of MN)	2005
+* Muscle (U of MN)	2006
 * Advanced Genetic Analysis (Yale)	2007
 * MathematicalMethods in Biophys (Yale)	2007
 * Macromolecular Structure (Yale)	2007
