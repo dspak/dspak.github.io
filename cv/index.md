@@ -121,7 +121,8 @@ __Poster Awards__
 </div></body>
 </html>	
 	
-## TEACHING EXPERIENCE		
+## TEACHING EXPERIENCE
+
 __Instructor, Rainforest Expedition and Laboratory Course  01/2014-09/2014__
 
 Yale University, New Haven, CT	
@@ -218,8 +219,10 @@ __Monteverde, Costa Rica	02-06/2004__
 * The goal of this work was to understand the relationship between a blue-green alga and its host montane herb.	
 	
 
-## OTHER RELEVANT EXPERIENCE				
-### Scientific Reviewing/Judging/Mentoring	
+## OTHER RELEVANT EXPERIENCE	
+
+### Scientific Reviewing/Judging/Mentoring
+
 * Ad hoc reviewer for the journal Fungal Biotechnology	03/2016
 * Ad hoc reviewer for the journal Biofuels	03/2012
 * Ad hoc reviewer for the journal Bioresource Technology	04/2011
@@ -241,7 +244,8 @@ __Monteverde, Costa Rica	02-06/2004__
 * Ad hoc reviewer for the Graduate Student Assembly Conference Travel Fund	2009-10
 * Co-first author of the report "Yale Bike Plan"  that diagrammed and described 		the needs and desires of the graduate student community for cycling 		infrastructure on the Yale campus	09/2012
 	
-## PROFESSIONAL MEMBERSHIPS		
+## PROFESSIONAL MEMBERSHIPS
+
 * American Society for Microbiology	2015-present
 * Mycology Society of America	2012-15
 * Biophysical Society	2006-7
