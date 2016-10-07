@@ -111,7 +111,7 @@ __Poster Awards__
   
    <div style="margin-bottom: 1em;" class="csl-entry">3. Gianoulis, T. A.*, Griffin, M. A.*, Spakowicz, D. J.*, Dunican, B. F., Alpha, C. J., Sboner, A., Sismour, A. M., Kodira, C., Egholm, M., Church, G. M., Gerstein, M. B., and Strobel, S. A. “<b>Genomic Analysis of the Hydrocarbon-Producing, Cellulolytic, Endophytic Fungus Ascocoryne Sarcoides</b>” <i>PLoS Genet</i> 8, no. 3 (2012): e1002558. doi:10.1371/journal.pgen.1002558  *these authors contributed equally</div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pgen.1002558&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Genomic%20Analysis%20of%20the%20Hydrocarbon-Producing%2C%20Cellulolytic%2C%20Endophytic%20Fungus%20Ascocoryne%20sarcoides&amp;rft.jtitle=PLoS%20Genet&amp;rft.stitle=PLoS%20Genet&amp;rft.volume=8&amp;rft.issue=3&amp;rft.aufirst=Tara%20A.&amp;rft.aulast=Gianoulis&amp;rft.au=Tara%20A.%20Gianoulis&amp;rft.au=Meghan%20A.%20Griffin&amp;rft.au=Daniel%20J.%20Spakowicz&amp;rft.au=Brian%20F.%20Dunican&amp;rft.au=Cambria%20J.%20Alpha&amp;rft.au=Andrea%20Sboner&amp;rft.au=A.%20Michael%20Sismour&amp;rft.au=Chinnappa%20Kodira&amp;rft.au=Michael%20Egholm&amp;rft.au=George%20M.%20Church&amp;rft.au=Mark%20B.%20Gerstein&amp;rft.au=Scott%20A.%20Strobel&amp;rft.date=2012-03-01&amp;rft.pages=e1002558"></span>
-</div></body>
+</body>
 </html>
  
 ### Other 
@@ -289,7 +289,7 @@ __Monteverde, Costa Rica	02-06/2004__
 * Ad hoc reviewer for the Graduate Student Assembly Conference Travel Fund	2009-10
 * Co-first author of the report "Yale Bike Plan"  that diagrammed and described 		the needs and desires of the graduate student community for cycling 		infrastructure on the Yale campus	09/2012
 	
-**** 
+****
 
 ## PROFESSIONAL MEMBERSHIPS
 
